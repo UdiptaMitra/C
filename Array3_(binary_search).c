@@ -1,4 +1,4 @@
-/*4.	WAPC to initialize the array with 10 integers of your choice. Input an integer from the user. 
+/*WAPC to initialize the array with 10 integers of your choice. Input an integer from the user. 
 Check and display whether or not the input entered by the user is present in the array or not. 
 Use the binary search technique (Hint: Make sure the array elements are sorted).*/
 #include<stdio.h>
@@ -39,3 +39,4 @@ int main()
 //printf("%d",sizeof(int)); - 4
 //printf("%d",sizeof(arr)); - 10*4=40 this ques
 //size of array = no of elements * size of datatype
+
