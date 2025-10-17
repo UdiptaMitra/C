@@ -25,3 +25,5 @@ int sumNat(int n)
 
 /*recursion is basically like induction where u have to assume true n-1th thing 
 and account for base case separately*/
+//base case is the actual step which does the work
+
